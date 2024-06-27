@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abhishek Arnav, sophomore at IIT Delhi pursuing Electrical Engineering
-- 👀 I’m interested in coding, machine learning and data science
+- 👋 Hi, I’m Abhishek Arnav, sophomore at IIT Delhi
+- 👀 I’m interested in programming, machine learning and data science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
