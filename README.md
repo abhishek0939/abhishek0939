@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Abhishek Arnav, sophomore at IIT Delhi
-- 👀 I’m interested in programming, machine learning and data science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-abhishek0939/abhishek0939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Abhishek Arnav, a sophomore at IIT Delhi, majoring in Material Science and Engineering. 
+I have a strong interest in programming, machine learning, and data science, with a focus on their applications in robotics and automation. 
+I’m currently working on developing a differential drive system using Sabertooth motor drivers and Kangaroo controllers for ABU Robocon 2025.
